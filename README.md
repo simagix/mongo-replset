@@ -5,6 +5,7 @@ Docker image to start a single member replica set "rs".
 - v3.6
 - v4.0
 - v4.2
+- v4.4
 
 ## Build
 
